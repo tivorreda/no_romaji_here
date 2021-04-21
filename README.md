@@ -1,6 +1,6 @@
 # death_to_romaji
 
-A new Flutter application.
+A flutter application that I've made for helping me memorize Hiragana and Katakana without the help of Romaji. Little quiz game using only text to speech for choosing the right Kana.
 
 ## Getting Started
 
